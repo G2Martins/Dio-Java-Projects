@@ -10,7 +10,7 @@ durante o curso de Java da [Digital Innvoation One](https://www.dio.me).
 
 | Aulas | Resumos |
 |-------|---------|
-| Anatomia das Classes e Variáveis | [Aula01]() |
+| Anatomia das Classes e Variáveis | [Aulas]() |
 
 ```
 Ctrl + Shift + P (Create J)
