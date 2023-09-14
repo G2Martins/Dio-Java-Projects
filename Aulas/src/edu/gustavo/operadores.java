@@ -32,6 +32,22 @@ package edu.gustavo;
  double resultado = (10 * 7) + (20/4);
 
  ATENÇÃO! O operador de adição (+), quando utilizado em variáveis do tipo texto, realizará a “concatenação de textos”.
+
+
+ String nomeCompleto = "LINGUAGEM" + "JAVA";
+		
+ //qual o resultado das expressoes abaixo?
+ String concatenacao ="?"; 
+
+ concatenacao = 1+1+1+"1"; --> 31
+
+ concatenacao = 1+"1"+1+1; --> 1111
+
+ concatenacao = 1+"1"+1+"1"; --> 1111
+
+ concatenacao = "1"+1+1+1; --> 1111
+
+ concatenacao = "1"+(1+1+1); --> 13
 +-----------------------------------------------------------------------------------------------------------------------+
 +-----------------------------------------------------------------------------------------------------------------------+ 
  Operadores Unários:
