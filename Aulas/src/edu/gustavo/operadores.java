@@ -121,6 +121,12 @@ package edu.gustavo;
  < Quando desejamos verificar se uma variável é MENOR QUE outra.
  <= Quando desejamos verificar se uma variável é MENOR OU IGUAL a outra.
 
+ String nomeUm = "Gustavo";
+ String nomeDois = new String("Gustavo");
+
+ System.out.println(nomeUm.equals(nomeDois)) // Para comparar se o conteudo de strings é igual
+ 
+ 
  int numero1 = 1;
  int numero2 = 2;
 
