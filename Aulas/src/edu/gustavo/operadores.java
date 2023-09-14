@@ -112,7 +112,8 @@ package edu.gustavo;
 +----------------------------------------------------------------------------------------------------------------------+ 
  Operador Relacionais:
 
- Os operadores relacionais, avaliam a relação entre duas variáveis ou expressões. Neste caso, mais precisamente, definem se o operando à esquerda é igual, diferente, menor, menor ou igual, maior, maior ou igual ao da direita, retornando um valor booleano como resultado.
+ Os operadores relacionais, avaliam a relação entre duas variáveis ou expressões. Neste caso, mais precisamente, definem se o operando à esquerda é igual, 
+ diferente, menor, menor ou igual, maior, maior ou igual ao da direita, retornando um valor booleano como resultado.
  == Quando desejamos verificar se uma variável é IGUAL A outra.
  != Quando desejamos verificar se uma variável é DIFERENTE da outra.
  > Quando desejamos verificar se uma variável é MAIOR QUE a outra.
