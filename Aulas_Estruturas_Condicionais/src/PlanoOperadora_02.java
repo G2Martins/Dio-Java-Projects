@@ -1,6 +1,6 @@
 public class PlanoOperadora_02 {
 	public static void main(String[] args) {
-		String plano = "M"; // M / T
+		String plano = "M"; // M // T //B
 
 		switch (plano) {
 			case "T": {

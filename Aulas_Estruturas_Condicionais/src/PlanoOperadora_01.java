@@ -1,7 +1,7 @@
 
 public class PlanoOperadora_01 {
 	public static void main(String[] args) {
-		String plano = "M"; //M / T
+		String plano = "M"; //M //B //T
 		
 		if(plano == "B") {
 			System.out.println("100 minutos de ligação");
