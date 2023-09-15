@@ -3,7 +3,7 @@ Folder destinado ao armazenamento do Desafio de Projeto em java com o seguinte t
 Simulando uma conta bancária através do Terminal/Console.
 
 ## 📚 Documentação
-[Repositório do Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe).
+[Repositório do Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
 
 <h4 align="center">
  
