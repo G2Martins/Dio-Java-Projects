@@ -1,4 +1,4 @@
-# Aulas | Exercícios | Projetos
+# Desafio Conta Banco
 Folder destinado ao armazenamento do Desafio de Projeto em java com o seguinte tema:
 Simulando uma conta bancária através do Terminal/Console.
 
