@@ -1,4 +1,6 @@
-package lanchonete;
+package lanchonete.atendimento.cozinha;
+
+//import lanchonete.atendimento.Atendente;
 
 public class Cozinheiro {
 	//pode ser default
@@ -39,9 +41,9 @@ public class Cozinheiro {
 	public void fritarIngredientesLanche() {
 		System.out.println("FRITANDO A CARNE E OVO PARA O HAMBÚRGUER");
 	}
-	public void pedirParaTrocarGas(Atendente meuAmigo) {
-		meuAmigo.trocarGas();
-	}
+	//public void pedirParaTrocarGas(Atendente meuAmigo) {
+	//	meuAmigo.trocarGas();
+	//}
 	public void pedirParaTrocarGas(Almoxarife meuAmigo) {
 		meuAmigo.trocarGas();
 	}
