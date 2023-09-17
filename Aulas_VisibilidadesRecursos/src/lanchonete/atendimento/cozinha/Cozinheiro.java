@@ -16,10 +16,10 @@ public class Cozinheiro {
 		adicionarLancheNoBalcao();
 		adicionarSucoNoBalcao();
 	}
-	public void prepararLanche() {
+	private void prepararLanche() {
 		System.out.println("PREPARANDO LANCHE TIPO HAMBÚRGUER");
 	}
-	public void prepararVitamina() {
+	private void prepararVitamina() {
 		System.out.println("PREPARANDO SUCO");
 	}
 	public void prepararCombo() {
@@ -29,25 +29,25 @@ public class Cozinheiro {
 	public void selecionarIngredientesLanche() {
 		System.out.println("SELECIONADO O PÃO, SALADA, OVO E CARNE");
 	}
-	public void selecionarIngredientesVitamina() {
-		System.out.println("SELECIONADO FRUTA, LEITE E SUCO");
-	}
-	public void lavarIngredientes() {
-		System.out.println("LAVANDO INGREDIENTES");
-	}
-	public void baterVitaminaLiquidificador() {
-		System.out.println("BATENDO VITAMINA NO LIQUIDIFICADOR");
-	}
+	//private void selecionarIngredientesVitamina() {
+	//	System.out.println("SELECIONADO FRUTA, LEITE E SUCO");
+	//}
+	//private void lavarIngredientes() {
+	//	System.out.println("LAVANDO INGREDIENTES");
+	//}
+	//private void baterVitaminaLiquidificador() {
+	//	System.out.println("BATENDO VITAMINA NO LIQUIDIFICADOR");
+	//}
 	public void fritarIngredientesLanche() {
 		System.out.println("FRITANDO A CARNE E OVO PARA O HAMBÚRGUER");
 	}
 	//public void pedirParaTrocarGas(Atendente meuAmigo) {
 	//	meuAmigo.trocarGas();
 	//}
-	public void pedirParaTrocarGas(Almoxarife meuAmigo) {
-		meuAmigo.trocarGas();
-	}
-	public void pedirIngredientes(Almoxarife almoxarife) {
-		almoxarife.entregarIngredientes();
-	}
+	//private void pedirParaTrocarGas(Almoxarife meuAmigo) {
+	//	meuAmigo.trocarGas();
+	//}
+	//private void pedirIngredientes(Almoxarife almoxarife) {
+	//	almoxarife.entregarIngredientes();
+	//}
 }
