@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class JurosCompostos {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        
    
         double valorInicial = scanner.nextDouble();
         
