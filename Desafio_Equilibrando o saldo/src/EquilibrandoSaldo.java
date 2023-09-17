@@ -12,9 +12,9 @@ public class EquilibrandoSaldo {
         
         scanner.close();
        
-        //TODO: Calcular o saldo atualizado de acordo com a descrição deste desafio.
+        
         saldoAtual = saldoAtual + valorDeposito - valorRetirada;
-        //TODO: Imprimir o a saída de conforme a tabela de exemplos (uma casa decimal).
+      
         System.out.println("Saldo atualizado na conta: " + saldoAtual);
     }
 }
