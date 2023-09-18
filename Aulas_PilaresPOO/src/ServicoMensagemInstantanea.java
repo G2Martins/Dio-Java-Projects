@@ -1,5 +1,22 @@
-public class ServicoMensagemInstantanea {
-	public void enviarMensagem() {
+public abstract class ServicoMensagemInstantanea 
+{
+	public abstract void enviarMensagem();
+	public abstract void receberMensagem();	
+
+	protected void validarConectadoInternet() {
+        System.out.println("Validando se está conectado a internet");
+    }    
+}
+    
+    
+    
+    
+    
+    
+    
+// Quando ServicoMensagemInstantanea nao era Abstrato
+/*
+    public void enviarMensagem() {
 		//primeiro confirmar se esta conectado a internet
 		validarConectadoInternet();
 		System.out.println("Enviando mensagem");
@@ -17,4 +34,4 @@ public class ServicoMensagemInstantanea {
 	private void salvarHistoricoMensagem() {
 		System.out.println("Salvando o histórico da mensagem");
 	}
-}
+*/
