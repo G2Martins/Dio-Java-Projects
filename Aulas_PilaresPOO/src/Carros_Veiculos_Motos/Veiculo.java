@@ -1,4 +1,5 @@
-public class Veiculo {
+package Carros_Veiculos_Motos;
+public abstract class Veiculo {
     private String chassi;
         
     public String getChassi() 
@@ -10,4 +11,5 @@ public class Veiculo {
     {
         this.chassi = chassi;
     }
+    public abstract void ligar();
 }
