@@ -10,7 +10,7 @@ durante o curso de Java da [Digital Innvoation One](https://www.dio.me).
 
 | Aulas | Resumos |
 |-------|---------|
-| Introdução | [Aulas_introdução]() |
+| Introdução | [Aulas_introdução](https://github.com/G2Martins/Dio-Java-Projects/tree/main/Aulas_Introdução) |
 | Terminais e Argumentos | [Aulas_Terminais_Argumentos]() |
 | Estruturas Condicionais | [Aulas_Estruturas_Condicionais]() |
 | Construtores | [Aulas_Construtores]() |
