@@ -36,8 +36,6 @@ class SistemaAcionistas {
     analises.add(new Analise(df.parse("01/04/2023"), "Analise de Politicas e Regulamentacoes"));
     analises.add(new Analise(df.parse("15/05/2023"), "Analise de Ativos"));
     analises.add(new Analise(df.parse("30/06/2023"), "Analise de Inovacao e Tecnologia"));
-
-   //TODO: Implemente o filtro das análises dentro do período especificado. Dica: Crie uma lista para armazenar as análises filtradas e use um loop for para filtrar as análises.
     
     List<String> analisesFiltradas = new ArrayList<>();
     for (Analise analise : analises) {
@@ -49,7 +47,6 @@ class SistemaAcionistas {
     return analisesFiltradas;
   }
 
-   // TODO: Retorne a lista de análises filtradas.
   }
 
   class Analise {
