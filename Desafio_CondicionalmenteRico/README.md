@@ -1,6 +1,6 @@
-# Desafio Conta Banco
+# Desafio Condicionalmente Rico
 Folder destinado ao armazenamento do Desafio de Projeto em java com o seguinte tema:
-"Desafios Java: Condicionalmente Rico"
+"**Desafios Java: Condicionalmente Rico**"
 
 # 📚 Documentação
 

@@ -1,6 +1,6 @@
-# Desafio Conta Banco
+# Desafio Equilibrando o Saldo
 Folder destinado ao armazenamento do Desafio de Projeto em java com o seguinte tema:
-"Desafios Java: Equilibrando o Saldo"
+"**Desafios Java: Equilibrando o Saldo**"
 
 # 📚 Documentação
 

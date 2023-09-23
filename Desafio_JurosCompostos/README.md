@@ -1,6 +1,6 @@
-# Desafio Conta Banco
+# Desafio Juros Compostos
 Folder destinado ao armazenamento do Desafio de Projeto em java com o seguinte tema:
-"Desafios Java: Juros Compostos"
+"**Desafios Java: Juros Compostos**"
 
 # 📚 Documentação
 

@@ -1,6 +1,6 @@
-# Desafio Conta Banco
+# Desafio Herança Bancária
 Folder destinado ao armazenamento do Desafio de Projeto em java com o seguinte tema:
-"Desafios Java: O Grande Deposito"
+"**Desafios Java: Herança Bancária**"
 
 # 📚 Documentação
 
